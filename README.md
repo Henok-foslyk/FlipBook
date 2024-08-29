@@ -8,7 +8,16 @@ Termainal commands:
 
 
 Controls:
+Use a mouse or mouse pad to draw.
+
+X - Flip current drawing about the x-axis
+
+Y - Flip current drawing about the y-axis
+
 P - Play/Pause
+
 S - new page 
+
 . - previous page
+
 , - next page
